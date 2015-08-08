@@ -1,0 +1,35 @@
+body {
+	margin-top: 50px;
+}
+
+#jt .brand-color {
+	color: green;
+}
+
+.carousel-caption {
+	right: 10%;
+	left: 10%;
+}
+.carousel-caption img {
+	width: 100%;
+}
+
+.carousel-caption {
+	text-align: left;
+	line-height: 1.5em; 
+	font-size: 18px;
+}
+
+
+.carousel-caption li {
+	list-style: none;
+	font-size: 20px;
+}
+
+footer {
+	line-height: 50px;
+	height: 50px;
+	text-align: center;
+	color: #fff;
+	background-color: #222222; 
+}
