@@ -10,9 +10,6 @@ body {
 	right: 10%;
 	left: 10%;
 }
-.carousel-caption img {
-	width: 100%;
-}
 
 .carousel-caption {
 	text-align: left;
@@ -20,13 +17,22 @@ body {
 	font-size: 18px;
 }
 
+.carousel-caption img {
+	width: 100%;
+}
 
 .carousel-caption li {
 	list-style: none;
 	font-size: 20px;
 }
 
+section#jt-marketing, 
+section#jt-price-plan {
+	margin-top: 50px;
+}
+
 footer {
+	margin-top: 50px;
 	line-height: 50px;
 	height: 50px;
 	text-align: center;
