@@ -42,6 +42,11 @@ section#domain-search  {
 	margin-top: 50px;
 }
 
+#contact-map iframe {
+	height: 350px;
+	width: 100%;
+}
+
 footer {
 	margin-top: 50px;
 	line-height: 50px;
