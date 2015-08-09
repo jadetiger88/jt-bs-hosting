@@ -2,6 +2,15 @@ body {
 	margin-top: 50px;
 }
 
+.jumbotron {
+	overflow: auto;
+}
+
+.well {
+	overflow: auto;
+}
+
+
 #jt .brand-color {
 	color: green;
 }
@@ -26,8 +35,10 @@ body {
 	font-size: 20px;
 }
 
-section#jt-marketing, 
-section#jt-price-plan {
+section#jt-feature-list, 
+section#jt-price-plan,
+section#domain-jumbotron, 
+section#domain-search  {
 	margin-top: 50px;
 }
 
