@@ -4,6 +4,7 @@ body {
 
 .jumbotron {
 	overflow: auto;
+	margin-top: 80px; 
 }
 
 .well {
